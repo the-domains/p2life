@@ -1,0 +1,14 @@
+layout_spectrum: 0.5161101866979152
+typography_spectrum: 0.3643962002824992
+color:
+  brandStrength: 0.18639255198650062
+  lightness: 0.6417933162301779
+  saturation: 0.42883681203238666
+  rhythmicContrast: 0.03569313231855631
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: P2Life
